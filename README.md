@@ -1,4 +1,8 @@
 # TinPet Project
+A Startup website built with Bootstrap.
+
+## Goal
+Create a landing page, basically tinder for pets, helping pets meet new and interesting pets nearby. 
 
 ## SVGs:
 
